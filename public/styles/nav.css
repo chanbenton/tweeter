@@ -17,7 +17,7 @@
     line-height: 2.5em;
   }
   
-  #nav-bar .compose-btn{
+  #nav-bar .compose-btn {
       font-size: 2em;
       float: right;
       margin-top: 20px;
@@ -27,7 +27,7 @@
       background-color: #e7fdff;
       color: #00a087;
   }
-  #nav-bar .compose-btn:hover{
+  #nav-bar .compose-btn:hover {
       background-color: white;
       color:black;
   }
